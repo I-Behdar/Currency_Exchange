@@ -5,7 +5,6 @@ setup(name='currency_exchange',
       url='https://www.python.org/sigs/distutils-sig/',
       packages=['currency_exchange'],
       install_requires=[
-        "pandas",
-        "torch"
+        "requests",
       ]
      )
